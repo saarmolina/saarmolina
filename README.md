@@ -22,7 +22,14 @@ Here are some of the projects I've worked on, which showcase my skills and inter
 
 
 ### 🔧 Skills
-Python, Jave, C, Assembly, HTML, CSS, Git, OOP
+- Python
+- Java
+- C
+- Assembly
+- HTML
+- CSS
+- Git
+- OOP
 
 
 ### 📫 How to Reach Me
