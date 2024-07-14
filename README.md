@@ -1,10 +1,10 @@
 <h1 align="center">👋 I'm Saar Molina</h1>
-<h3 align="center">Ambitious and highly motivated Computer Science student at Tel Aviv University.</h3>
+<h3 align="center">Ambitious Computer Science student at Tel Aviv University.</h3>
 
 ---
 
 ### 🙋‍♂️ About Me
-I'm Highly motivated second-year Computer Science student at Tel Aviv University. Passionate about delivering impact, teamwork, and tackling intricate challenges.
+I'm a highly motivated second-year Computer Science student at Tel Aviv University. Passionate about delivering impact, teamwork, and tackling intricate challenges.
 I'm  eager to explore new technologies and to leverage my quick self-learning capabilities, creativity, and
 technical skills in a dynamic environment.
 
