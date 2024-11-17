@@ -1,4 +1,4 @@
-# Symmetric Non-negative Matrix Factorization (symNMF) Clustering
+# Saar Molina
 
 ### 🙋‍♂️ About Me
 I'm a highly motivated second-year Computer Science student at Tel Aviv University. Passionate about delivering impact, teamwork, and tackling intricate challenges.
